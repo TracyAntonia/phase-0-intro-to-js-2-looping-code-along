@@ -18,3 +18,4 @@ function writeCards(names, event){
         console.log(number--);
     }
  }
+ countDown(10)
